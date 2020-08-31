@@ -277,6 +277,8 @@ This is a dataset of CVEs related to Java Deserialization. Since existing CVE da
 | [CVE-2020-10644](https://nvd.nist.gov/vuln/detail/CVE-2020-10644)     | 2020 | 7.5             | 5           |
 | [CVE-2020-10672](https://nvd.nist.gov/vuln/detail/CVE-2020-10672)     | 2020 | 8.8             | 6.8         |
 | [CVE-2020-10673](https://nvd.nist.gov/vuln/detail/CVE-2020-10673)     | 2020 | 8.8             | 6.8         |
+| [CVE-2020-10740](https://nvd.nist.gov/vuln/detail/CVE-2020-10740)     | 2020 | 7.5             | 6           |
+| [CVE-2020-10917](https://nvd.nist.gov/vuln/detail/CVE-2020-10917)     | 2020 | 9.8             | 7.5         |
 | [CVE-2020-10969](https://nvd.nist.gov/vuln/detail/CVE-2020-10969)     | 2020 | 8.8             | 6.8         |
 | [CVE-2020-11111](https://nvd.nist.gov/vuln/detail/CVE-2020-11111)     | 2020 | 8.8             | 6.8         |
 | [CVE-2020-11112](https://nvd.nist.gov/vuln/detail/CVE-2020-11112)     | 2020 | 8.8             | 6.8         |
@@ -288,8 +290,10 @@ This is a dataset of CVEs related to Java Deserialization. Since existing CVE da
 | [CVE-2020-12133](https://nvd.nist.gov/vuln/detail/CVE-2020-12133)     | 2020 | 9.8             | 10          |
 | [CVE-2020-12760](https://nvd.nist.gov/vuln/detail/CVE-2020-12760)     | 2020 | 8.8             | 6.5         |
 | [CVE-2020-12835](https://nvd.nist.gov/vuln/detail/CVE-2020-12835)     | 2020 | 9.8             | 7.5         |
+| [CVE-2020-15842](https://nvd.nist.gov/vuln/detail/CVE-2020-15842)     | 2020 | 8.1             | 6.8         |
 | [CVE-2020-1714](https://nvd.nist.gov/vuln/detail/CVE-2020-1714)       | 2020 | 8.8             | 6.5         |
 | [CVE-2020-1947](https://nvd.nist.gov/vuln/detail/CVE-2020-1947)       | 2020 | 9.8             | 7.5         |
+| [CVE-2020-1948](https://nvd.nist.gov/vuln/detail/CVE-2020-1948)       | 2020 | 9.8             | 7.5         |
 | [CVE-2020-2551](https://nvd.nist.gov/vuln/detail/CVE-2020-2551)       | 2020 | 9.8             | 7.5         |
 | [CVE-2020-2555](https://nvd.nist.gov/vuln/detail/CVE-2020-2555)       | 2020 | 9.8             | 7.5         |
 | [CVE-2020-2583](https://nvd.nist.gov/vuln/detail/CVE-2020-2583)       | 2020 | 3.7             | 4.3         |
@@ -299,13 +303,18 @@ This is a dataset of CVEs related to Java Deserialization. Since existing CVE da
 | [CVE-2020-2883](https://nvd.nist.gov/vuln/detail/CVE-2020-2883)       | 2020 | 9.8             | 7.5         |
 | [CVE-2020-2950](https://nvd.nist.gov/vuln/detail/CVE-2020-2950)       | 2020 | 9.8             | 7.5         |
 | [CVE-2020-3280](https://nvd.nist.gov/vuln/detail/CVE-2020-3280)       | 2020 | 9.8             | 10          |
+| [CVE-2020-4305](https://nvd.nist.gov/vuln/detail/CVE-2020-4305)       | 2020 | 8.8             | 9.3         |
 | [CVE-2020-4448](https://nvd.nist.gov/vuln/detail/CVE-2020-4448)       | 2020 | 9.8             | 10          |
 | [CVE-2020-4449](https://nvd.nist.gov/vuln/detail/CVE-2020-4449)       | 2020 | 7.5             | 5           |
 | [CVE-2020-4450](https://nvd.nist.gov/vuln/detail/CVE-2020-4450)       | 2020 | 9.8             | 10          |
 | [CVE-2020-5327](https://nvd.nist.gov/vuln/detail/CVE-2020-5327)       | 2020 | 9.8             | 9.3         |
+| [CVE-2020-5411](https://nvd.nist.gov/vuln/detail/CVE-2020-5411)       | 2020 | 8.1             | 6.8         |
+| [CVE-2020-5413](https://nvd.nist.gov/vuln/detail/CVE-2020-5413)       | 2020 | 9.8             | 7.5         |
 | [CVE-2020-7961](https://nvd.nist.gov/vuln/detail/CVE-2020-7961)       | 2020 | 9.8             | 7.5         |
 | [CVE-2020-8840](https://nvd.nist.gov/vuln/detail/CVE-2020-8840)       | 2020 | 9.8             | 7.5         |
 | [CVE-2020-9484](https://nvd.nist.gov/vuln/detail/CVE-2020-9484)       | 2020 | 7               | 4.4         |
 | [CVE-2020-9546](https://nvd.nist.gov/vuln/detail/CVE-2020-9546)       | 2020 | 9.8             | 6.8         |
 | [CVE-2020-9547](https://nvd.nist.gov/vuln/detail/CVE-2020-9547)       | 2020 | 9.8             | 6.8         |
 | [CVE-2020-9548](https://nvd.nist.gov/vuln/detail/CVE-2020-9548)       | 2020 | 9.8             | 6.8         |
+
+
